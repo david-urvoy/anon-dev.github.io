@@ -5,7 +5,7 @@ projectUrl: jekyl-cv-crafter
 person:
   name: John Doe
   depiction: me.jpg
-  profession: Développeur fullstack & devops
+  profession: Architecte technique & développeur fullstack
   location: Lyon
   email: xxx@gmail.com
   site: xxx
@@ -137,7 +137,7 @@ technicalSkills:
 sideProjects:
   - name: brain-academy.fr
     description: Mise en place d'un site web (+wiki) pour un groupe associatif.
-    link: https://brain-academy.fr
+    link: https://brain-academy.fr/wiki/
     type: website
     langs: Typescript | React | JSX | MDX | Docusaurus 2
   - name: Docker presentation
